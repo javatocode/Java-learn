@@ -1,0 +1,23 @@
+Core Java :
+
+1. Java, JDK, JRE, JVM 
+2. Variable , Naming Covention , Keywords , datatype
+3. Static Variable, methods, block 
+4. Object and class 
+5. Constructor
+6. Super Keywords
+7. This Keywords 
+8. Abstraction 
+9. Interface -> multiple , hybrid Inheritance
+10. Polymorphism -> method overloading and method overriding
+11. Inheritance -> Single, Multi-level, Hierarical
+12. Enscapsulation
+13. Array
+14. Packages
+15. Exception Handling
+16. Input user method
+17. Thread , Multithread
+18. Synchronization on Thread
+19. InnerOuter Classes
+20. InnerOuter Interface
+21. Conversion of datatype

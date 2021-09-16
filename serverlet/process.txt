@@ -1,0 +1,6 @@
+1. maven project
+2. pom.xml - > jstl api, jstl imple, mysql 8.0.26.. form mvn repo
+3. setup all bootstap lib and js lib
+4. server setup on property-> target runtime->click ..
+5. create new java folder inside src-> main
+6. jsp (Input form) -> contoller(handle request) -> Doa(JDBC) -> Model(getter,setter,tostring,constructor) ->  Jsp(Output content) 

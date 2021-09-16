@@ -1,0 +1,41 @@
+1. Control Statement 
+   - Simple Menu driven Program
+2. OOPS 
+   - Student Menu driven project
+   - Bank application
+3. Collections
+   - Student Menu driven project
+4. JDBC 
+   - Student Menu driven project with all above concept(CRUD)
+5. Servlet & JSP
+   - Student Management (CRUD) with JDBC
+6. Hibernate + Servlet + JSP
+   - Student Management (CRUD) with ORM
+   - Full project of blog application
+7. Spring core 
+   - Student data with Java Configuration (CRUD)
+   - Student data with XML Configuration (CRUD)
+8. Spring JDBC
+   - Student Management with XML Confuguration (JDBCTemplate)
+   - Student Management with Java Confuguration (JDBCTemplate)
+9. Spring hibernate
+   - Student Management with XML Confuguration (HibernateTemplate)
+   - Student Management with Java Confuguration (HibernateTemplate)
+10.Spring MVC
+   - Student Management xml - HibernateTemplate (CRUD)
+   - Full project of search application -(Login,register,Logout,search through different browser, histroy,profile,forgot password-email)
+11.AOP 
+   - Make Payment integetegration tool using AOP
+11.Webservices
+   - Student application with SOAP Webservice(JAX-WS || JAX-RPC) 
+   - Student application with SOAP Webservice (JAX-WS || JAX-RPC)  - jdbc
+   - Student application with SOAP Webservice (JAX-WS || JAX-RPC)  - hibernate
+   - Student application with RestFul Webservice (json)
+   - Student application with RestFul Webservice (json) - jdbc
+   - Student application with RestFul Webservice (json) - hibernate
+   - Student application with RestFul Webservice (xml)
+   - Student application with RestFul Webservice (xml) - jdbc
+   - Student application with RestFul Webservice (xml) - hibernate
+12. Spring Boot
+   - Student Menu Driven program in spring boot + hibernate 
+

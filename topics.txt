@@ -1,0 +1,15 @@
+1. Core java
+2. Collection
+3. JDBC
+4. Servlet
+5. JSP
+6. Hibernate
+7. HQL
+8. JPA
+9. Spring-core
+10.Spring-mvc
+11.Spring-ORM
+12.Spring-AOP
+13.Webservice - SOAP 
+14.WebService - RESTFUL
+
