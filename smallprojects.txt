@@ -4,7 +4,8 @@
    - Student Menu driven project
    - Bank application
 3. Collections
-   - Student Menu driven project
+   - Student Menu driven project (CRUD)
+   - Student Menu driven project (CRUD)- JDBC
 4. JDBC 
    - Student Menu driven project with all above concept(CRUD)
 5. Servlet & JSP
